@@ -1,0 +1,23 @@
+# Mac OSX system files
+.DS_Store
+.localized
+
+# Temporary files
+*~
+
+# Log files
+*.log
+
+# IntelliJ
+.idea/**
+*.iml
+*.ipr
+*.iws
+*.rdb
+target/**
+
+**/.DS_store
+# git properties file
+git.properties
+
+
